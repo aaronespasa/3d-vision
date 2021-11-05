@@ -25,35 +25,6 @@ Peter Michael
 Paul Yoo
 - yoosehy@cs.washington.edu
 
-### Office Hours ###
-
-- Monday 
-    - 9-10am with Nishat
-        - https://washington.zoom.us/j/93229294548
-- Tuesday
-    - 10-11am with Joe
-        - https://washington.zoom.us/j/94353645631
-    - 2-3pm with Greg
-        - https://washington.zoom.us/j/96987041023
-- Wednesday
-    - 1-2pm with Paul
-        - https://washington.zoom.us/j/94483036036
-- Thursday
-    - 10-11am with Joe
-        - https://washington.zoom.us/j/94353645631
-    - 2-3pm with Fatemeh
-        - https://washington.zoom.us/j/96022262301
-- Friday
-    - 10-11am with Peter
-        - https://washington.zoom.us/j/91658303807
-
-
-### Resources ###
-- Ed Discussion Board: https://edstem.org/us/courses/4922/discussion/
-- Canvas: https://canvas.uw.edu/courses/1448785
-- Zoom: https://washington.zoom.us/j/94353645631
-
-
 Slides are a mishmash of lots of other people's work. Special thanks to: Rob Fergus, Linda Shapiro, Harvey Rhody, Rick Szeliski, Ali Farhadi, Robert Collins. Lectures 8 and 9 on Flow, 3d, and stereo are given by [Connor Schenck](https://homes.cs.washington.edu/~schenckc/).
 
 All of the slides, videos, and homeworks are free to use, modify, redistribute as you like without permission. Just make your own copy of the slides on Google Docs, don't ask to modify mine!

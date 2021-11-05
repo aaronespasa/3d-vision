@@ -10,6 +10,8 @@
 - [CSE455: Computer Vision - University of Washington](http://courses.cs.washington.edu/courses/cse455/)
 - [CSE P576: Computer Vision - University of Washington](http://courses.cs.washington.edu/courses/csep576/)
 - [CSE576: Computer Vision - University of Washington](http://courses.cs.washington.edu/courses/cse576/)
+- [CSE576: Computer Vision Exercises 1 - University of Washington](https://github.com/yiminglin-ai/cse576)
+- [CSE576: Computer Vision Exercises 2 - University of Washington](https://github.com/AtOMiCNebula/UW-CSEP576)
 - [Computer Vision - Universität Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
 - [Computer Vision Lecture Notes - Universität Tübingen](https://drive.google.com/file/d/1VE_ckxLTkXGeCt8xhOALHzsmM0bKNk3S/view)
 - [3D Computer Vision Lectures - National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)

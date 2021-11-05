@@ -13,4 +13,5 @@
 - [Computer Vision - Universität Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
 - [Computer Vision Lecture Notes - Universität Tübingen](https://drive.google.com/file/d/1VE_ckxLTkXGeCt8xhOALHzsmM0bKNk3S/view)
 - [3D Computer Vision Lectures - National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+- [Deep Learning for Vision - University of Rennes](https://sif-dlv.github.io/)
 - [Deep Learning Book (good for DL math and DL theory)](https://www.deeplearningbook.org/)

@@ -1,6 +1,50 @@
 # Downloads of resources (these are big files and I prefer not to download them as they are simply the downloads from the list of resources)
 Resources/downloads/
 
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Visual Studio Code
+*.code-workspace
+.history
+.vscode
+
+### C++ ###
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+##########
+
 ### MacOS ###
 
 # General

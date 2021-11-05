@@ -13,11 +13,18 @@ Advice: If you already know the concepts you see on the table of contents of 2D 
 
 [Jump to the 2D Computer Vision Section!](https://github.com/aaronespasa/computer-vision-proficiency/tree/main/2d-computer-vision)
 
+<!-- ![Instance Segmentation 1](https://docs.openvino.ai/latest/_images/instance_segmentation.gif) -->
+
+<!-- [Source: OpenVino.ai](https://docs.openvino.ai/latest/omz_demos_instance_segmentation_demo_python.html)-->
+
+<!-- ![Image Segmentation 2](https://i.gifer.com/J82Y.gif) -->
 
 # 3D Computer Vision
 Here comes the interesting part...
 
 [Jump to the 3D Computer Vision Section!](https://github.com/aaronespasa/computer-vision-proficiency/tree/main/3d-computer-vision)
+
+<!-- ![3D Computer Vision GIF](https://i.gifer.com/GYxT.gif) -->
 
 # Resources
 
